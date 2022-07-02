@@ -1,1 +1,1 @@
-![Alt text]<img src="my_info.gif" width="400" height="790">
+![Alt text]<img src="my_info.gif" width="600" height="600">
