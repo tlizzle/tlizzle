@@ -1,1 +1,1 @@
-![Alt text](my_info.gif | width=100)
+`![Alt text](my_info.gif | width=100)`
