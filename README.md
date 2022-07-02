@@ -1,1 +1,1 @@
-![Alt text](my_info.gif =300x300)
+![Alt text](my_info.gif | width=100)
